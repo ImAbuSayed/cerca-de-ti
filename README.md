@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cerca-de-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Cerca de ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cerca-de-ti/) |
+| **Get License** | [Request Licensing for Cerca de ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cerca-de-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8219251047e152955deb220446693e48056f779939a9b5a3528e7d114304cc09` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

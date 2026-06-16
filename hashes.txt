@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cerca de ti
+
+This log tracks the cryptographic history and versioning for the song **Cerca de ti** (cerca-de-ti).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:46:31.270208 | `v1` | `8219251047e152955deb220446693e48056f779939a9b5a3528e7d114304cc09` | `3042ba3eb6e760530a699f186a5cda14be6fb3f7ee17810ef9266c5f81141209` | `2026-06-16_cerca-de-ti-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
