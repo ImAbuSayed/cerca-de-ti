@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cerca-de-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Cerca de ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cerca-de-ti/) |
+| **Get License** | [Get License For Cerca de ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cerca-de-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me acerco lento, la noche nos llama,
+> El humo sube, encendiendo la llama.
+> Tu mirada me dice qué quieres hacer,
+> Baby, dime que hoy vas a ser mi mujer.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
